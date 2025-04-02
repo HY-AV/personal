@@ -1,0 +1,127 @@
+[
+    {
+        "file_path": "dummy-pii/pan.jpg",
+        "pii_class": "Permanent Account Number",
+        "score": 63,
+        "country_of_origin": "India",
+        "faces": 1,
+        "identifiers": [
+            "3WEKYSJOR",
+            "DEPARTMEN",
+            "Permanent",
+            "BWEKYSJOR",
+            "SWEKYSJOR",
+            "Signature"
+        ],
+        "emails": [],
+        "phone_numbers": [],
+        "addresses": [
+            "INDIA"
+        ]
+    },
+    {
+        "file_path": "dummy-pii/002.jpeg",
+        "pii_class": "Resident Identity (Iqama)",
+        "score": 13,
+        "country_of_origin": "Saudi Arabia",
+        "faces": 2,
+        "identifiers": [
+            "ABRHOOODO",
+            "NERBLIUFS",
+            "VERBLIUES",
+            "OPMERKING",
+            "AeRwono00",
+            "WERBLIUFS",
+            "ABRHOOOOO",
+            "GEBOORTED",
+            "Voornaman",
+            "RESIDENCE",
+            "ABRHOO0O0",
+            "BLISESTRY",
+            "VERBLIUFS",
+            "ABRHOORES",
+            "GEROORTED",
+            "ABRHOOGOO",
+            "GESOORTED",
+            "BLIJFSTIT",
+            "RESIDENGE",
+            "AsRwono00",
+            "Voornamen",
+            "VEROLIUFS",
+            "GPMERKING",
+            "ABRHODOGO",
+            "crunigsov",
+            "necetissT"
+        ],
+        "emails": [],
+        "phone_numbers": [],
+        "addresses": [
+            "Rabe"
+        ]
+    },
+    {
+        "file_path": "dummy-pii/dummy-aadhaar.png",
+        "pii_class": "Aadhaar Card",
+        "score": 33,
+        "country_of_origin": "India",
+        "faces": 1,
+        "identifiers": [
+            "3977 8800 0234",
+            "200729419067"
+        ],
+        "emails": [
+            "help@uidai.gov.in",
+            "help@udai.govin"
+        ],
+        "phone_numbers": [
+            "800 180 1947",
+            "800 100 1007",
+            "2007294190"
+        ],
+        "addresses": [
+            "Groestone",
+            "Children",
+            "Chikiten"
+        ]
+    },
+    {
+        "file_path": "dummy-pii/002.jpeg",
+        "pii_class": "Resident Identity (Iqama)",
+        "score": 13,
+        "country_of_origin": "Saudi Arabia",
+        "faces": 2,
+        "identifiers": [
+            "ABRHOOOOO",
+            "NERBLIUFS",
+            "BLIJFSTIT",
+            "GPMERKING",
+            "GEBOORTED",
+            "VERBLIUES",
+            "ABRHODOGO",
+            "ABRHOO0O0",
+            "Voornamen",
+            "Voornaman",
+            "necetissT",
+            "AeRwono00",
+            "OPMERKING",
+            "BLISESTRY",
+            "crunigsov",
+            "GESOORTED",
+            "RESIDENCE",
+            "VEROLIUFS",
+            "AsRwono00",
+            "RESIDENGE",
+            "VERBLIUFS",
+            "ABRHOORES",
+            "GEROORTED",
+            "ABRHOOGOO",
+            "WERBLIUFS",
+            "ABRHOOODO"
+        ],
+        "emails": [],
+        "phone_numbers": [],
+        "addresses": [
+            "Rabe"
+        ]
+    }
+]

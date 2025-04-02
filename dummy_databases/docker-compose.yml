@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  mysql:
+    build: ./mysql
+    container_name: mysql_container
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: mysql_db  # Database name changed to mysql_db
+    ports:
+      - "3307:3306"  # MySQL mapped to 3307 on host
+
+  postgres:
+    build: ./postgres
+    container_name: postgres_container
+    restart: always
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: root
+      POSTGRES_DB: postgres_db  # Database name changed to postgres_db
+    ports:
+      - "5440:5432"  # PostgreSQL mapped to 5433 on host
